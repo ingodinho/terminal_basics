@@ -9,7 +9,8 @@ pwd
 ### `ls` - List
 Mit dem Befehl `ls` können Sie den Inhalt des aktuellen Verzeichnisses auflisten.
 ```bash
-ls
+ls # Zeigt die Ordner und Dateien im Verzeichnis an
+ls -la # Zeigt alle, auch die versteckten, Dateien und Ordner im Verzeichnis strukturiert an
 ```
 
 ### `cd` - Change Directory
