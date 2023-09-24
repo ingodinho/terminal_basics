@@ -1,5 +1,7 @@
 # Terminal Basics
 
+Hier möchten wir euch kurz die wichtigsten Terminal-Befehle bezüglich der Interaktion mit dem Filesystem vorstellen, die wir im Bootcamp nutzen werden.
+
 ### `pwd` - Print Working Directory
 Der Befehl `pwd` zeigt den aktuellen Arbeitsverzeichnis-Pfad an.
 ```bash
@@ -64,4 +66,4 @@ Um ein Verzeichnis und dessen Inhalt rekursiv zu löschen, verwenden Sie `rm -r`
 rm -r verzeichnisname
 ```
 
-Das sind die grundlegenden Befehle, um im Terminal auf macOS zu navigieren, Dateien und Ordner zu erstellen, umzubenennen und zu löschen. Bitte seien Sie vorsichtig beim Löschen von Dateien und Verzeichnissen, da dies irreversible Auswirkungen haben kann. Üben Sie diese Befehle in einem sicheren Verzeichnis, bevor Sie sie auf wichtige Dateien anwenden.
+Das sind die grundlegenden Befehle, um im Terminal auf macOS zu navigieren, Dateien und Ordner zu erstellen, umzubenennen und zu löschen. Bitte seid vorsichtig beim Löschen von Dateien und Verzeichnissen, da dies irreversible Auswirkungen haben kann. Übt diese Befehle in einem sicheren Verzeichnis, bevor ihr sie auf wichtige Dateien anwendet.
